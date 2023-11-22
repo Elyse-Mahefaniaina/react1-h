@@ -1,0 +1,33 @@
+#head {
+  height: 75px;
+  background-color: #000;
+  color: white;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: start;
+}
+
+#head span{
+  margin-top: 10px;
+}
+
+* {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
